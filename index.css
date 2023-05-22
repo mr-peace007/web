@@ -1,0 +1,197 @@
+
+img 
+{
+    height: 250px;
+
+}
+hr {
+   border-color: rgb(58, 6, 6);
+}
+.job{
+    color:rgb(7, 6, 1) ;
+    font-family: 'EB Garamond', serif;
+}
+#heading
+{
+
+    font-family: 'Sacramento', cursive;
+    color: rgb(17, 12, 7);
+    border-color: black;
+   
+}
+.style
+{
+    background-color: #99627A;
+    margin:0 0 0 0;
+}
+.content
+{
+    padding-left: 0%;
+    width: 100%;
+    height: 100vh;
+    background-image:url(https://t3.ftcdn.net/jpg/05/35/47/38/360_F_535473874_OWCa2ohzXXNZgqnlzF9QETsnbrSO9pFS.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+p{
+    font-family: fantasy;
+    color: white;
+    text-align: center;
+}
+.hr
+{
+    margin-top: 10px;
+border-style: none;
+border-top-style: dotted;
+border-color: black;
+border-width: 5px;
+width: 100px;
+
+
+}
+.myself
+{
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(159, 104, 21);
+    line-height: 2;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sjce
+{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(232, 22, 67);
+    line-height: 2;
+    width: 60%;
+    float: left;
+    margin-left: 30px;
+}
+.content1
+{
+    width: 100%;
+    height: 30rem;
+    background-color: rgb(247, 188, 241);
+}
+.jc{
+    float: left;
+    width: 20%;
+
+}
+.nish
+{
+color:black;
+font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.skills
+{
+    width: 100%;
+    height: 40rem;
+    background-color: rgb(228, 188, 219);
+
+}
+.ho
+{
+    font-size: 20px;
+    font-family: fantasy;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+    line-height: 4;
+}
+.hr1
+{
+    margin-top: 10px;
+border-style: none;
+border-top-style: dotted;
+border-color: rgb(39, 149, 207);
+border-width: 5px;
+width: 100px;
+}
+.hr2
+{
+    margin-top: 10px;
+border-style: none;
+border-top-style:groove;
+border-color: rgb(39, 149, 207);
+border-width: 5px;
+width: 100px;
+padding-top: 10px;
+padding-bottom: 20px;
+margin-bottom: 20px;
+}
+.cm{
+    
+    padding: 20px 0px;
+    background: #3D94F6;
+    background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+    background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-family: Brush Script MT;
+    font-size: 10px;
+    font-weight: 50;
+    padding: 20px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ ..cm:hover {
+    border: solid #337FED 1px;
+    background: #1E62D0;
+    background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+    background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+ }
+ .contact
+ {
+    padding: 10px 0px;
+    background-color: #98e4ef;
+    width: 100%;
+    height: 7rem;
+    margin: 10px 0px 4px;
+ }
+ .twitter
+ {
+    padding-top: 10%;
+    color: rgb(8, 5, 5);
+  margin: 10px 20px;
+  text-decoration: none;
+
+ }
+ .linkden
+ {
+    padding-top: 10%;
+    color: rgb(6, 1, 1);
+  margin: 10px 20px;
+  text-decoration: none;
+
+ }
+ .twitter:hover
+ {
+    color: azure;
+ }
+ .linkden:hover
+ {
+    color: azure;
+ }
